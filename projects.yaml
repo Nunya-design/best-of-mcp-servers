@@ -2331,7 +2331,8 @@ projects:
     category: text-to-speech
   - name: Aisle
     github_id: Nunya-design/aisle-mcp
-    description: Hosted MCP server for wedding venues, budgets, timelines, guests and events.
+    description: >-
+      Hosted MCP server for wedding venues, budgets, timelines, guests and events.
     category: travel-and-transportation
   - name: cobanov/teslamate-mcp
     github_id: cobanov/teslamate-mcp
